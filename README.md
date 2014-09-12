@@ -1,0 +1,4 @@
+RocketSimulator
+===============
+
+The RocketSimulator repository.
